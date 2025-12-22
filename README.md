@@ -1,4 +1,4 @@
 # Рецепты
 
-- [Курица гриль](chicken-grill.md)
+- [Курица гриль](chicken_grill.md)
 - [Борщ](borsch.md)
